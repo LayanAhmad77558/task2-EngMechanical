@@ -1,0 +1,12 @@
+1. Start the robot system.
+ 2. Scan the source storage (Warehouse A) for available food items.
+ 3. Locate a food item using object detection sensors.
+ 4. Move the robotic arm to the item’s position.
+ 5. Pick up the item using the gripper or suction tool.
+ 6. Check the destination storage (Warehouse B) for available space.
+ 7. Navigate the robot to Warehouse B using pathfinding or line following.
+ 8. Position the arm over the designated storage area.
+ 9. Place the item in the correct position.
+ 10. Return to the initial position at Warehouse A.
+ 11. Repeat the process until all items are transferred.
+ 12. Stop the robot system once the transfer is complete or storage is full.
