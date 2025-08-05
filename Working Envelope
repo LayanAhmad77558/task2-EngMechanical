@@ -1,0 +1,16 @@
+Working Envelope of the 3D Model
+
+File: Daring Jarv.stl
+
+The working envelope represents the total 3D space occupied by the object or within which it can move or operate.
+
+Dimensions (Width × Depth × Height):
+ • Width (X-axis): 89 mm
+ • Depth (Y-axis): 136 mm
+ • Height (Z-axis): 60 mm
+
+ Bounding Box Coordinates:
+ • Minimum point: (-49, -84, 0)
+ • Maximum point: (40, 52, 60)Working Envelope of your model is:
+
+89 mm × 136 mm × 60 mm
